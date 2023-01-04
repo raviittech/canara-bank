@@ -1,1 +1,1 @@
-canara-bank-app
+canara-bank
